@@ -1,2 +1,2 @@
 # CodingNinjas-Resume-Project
- Resume Project in HTML/CSS
+ [Resume Link](https://er-abhay-fsd.github.io/RESUME_CN/#portfolio)
